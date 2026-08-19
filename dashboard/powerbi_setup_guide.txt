@@ -1,0 +1,50 @@
+# Power BI Relationship Schema Guide
+# ===================================
+# Use this guide to set up table relationships in Power BI after importing the SQLite database or CSVs.
+#
+# TABLES & KEY COLUMNS:
+# ---------------------
+# fund_master          -> amfi_code (PK), fund_house, category, sub_category
+# nav_history          -> amfi_code (FK), date, nav
+# scheme_performance   -> amfi_code (FK), return_1yr_pct, sharpe_ratio, risk_grade
+# investor_transactions-> amfi_code (FK), transaction_date, investor_id, amount_inr
+# portfolio_holdings   -> amfi_code (FK), stock_symbol, weight_pct, sector
+# benchmark_indices    -> date, index_name, close_value
+# aum_by_fund_house    -> fund_house (FK), aum_crore
+# monthly_sip_inflows  -> month, sip_inflow_crore
+# category_inflows     -> category, net_inflow_crore
+# industry_folio_count -> month, total_folios_crore
+# risk_metrics         -> amfi_code (FK), alpha, beta, annualized_std_dev, risk_profile
+#
+# RELATIONSHIPS TO CREATE IN POWER BI:
+# -------------------------------------
+# 1. fund_master.amfi_code  --(1:Many)-->  nav_history.amfi_code
+# 2. fund_master.amfi_code  --(1:Many)-->  scheme_performance.amfi_code
+# 3. fund_master.amfi_code  --(1:Many)-->  investor_transactions.amfi_code
+# 4. fund_master.amfi_code  --(1:Many)-->  portfolio_holdings.amfi_code
+# 5. fund_master.amfi_code  --(1:1)-----> risk_metrics.amfi_code
+# 6. fund_master.fund_house --(Many:1)--> aum_by_fund_house.fund_house
+#
+# DATE RELATIONSHIPS:
+# 7. Create a Date table in Power BI (Calendar table)
+# 8. Link Date table to nav_history.date, investor_transactions.transaction_date, benchmark_indices.date
+#
+# SLICERS TO ADD:
+# - Fund House (from fund_master.fund_house)
+# - Category (from fund_master.category)
+# - Sub-Category (from fund_master.sub_category)
+# - Plan (from scheme_performance.plan)
+# - State (from investor_transactions.state)
+# - Age Group (from investor_transactions.age_group)
+# - City Tier (from investor_transactions.city_tier)
+# - Risk Profile (from risk_metrics.risk_profile)
+#
+# BLUESTOCK COLOR THEME:
+# Primary:    #1a237e (Dark Blue)
+# Secondary:  #0d47a1 (Blue)
+# Accent:     #00bcd4 (Teal)
+# Background: #121212 (Dark)
+# Text:       #ffffff (White)
+# Success:    #4caf50 (Green)
+# Warning:    #ff9800 (Orange)
+# Danger:     #f44336 (Red)

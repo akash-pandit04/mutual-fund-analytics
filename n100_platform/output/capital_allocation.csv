@@ -1,0 +1,1289 @@
+company_id,year,pattern_label,description
+1.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+1.0,2012.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+1.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+1.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+1.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+1.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+1.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+1.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+1.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+1.0,2020.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+1.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+1.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+1.0,2023.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+1.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+2.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+2.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+2.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+2.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+2.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+2.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+2.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+2.0,2018.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+2.0,2019.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+2.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+2.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+2.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+2.0,2023.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+2.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+3.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+3.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+3.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+3.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+3.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+3.0,2016.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+3.0,2017.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+3.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+3.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+3.0,2020.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+3.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+3.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+3.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+3.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+4.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+4.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+4.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+4.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+4.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+4.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+4.0,2017.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+4.0,2018.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+4.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+4.0,2020.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+4.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+4.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+4.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+4.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+5.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+5.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+5.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+5.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+5.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+5.0,2016.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+5.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+5.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+5.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+5.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+5.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+5.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+5.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+5.0,2024.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+6.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+6.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+6.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+6.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+6.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+6.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+6.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+6.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+6.0,2019.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+6.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+6.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+6.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+6.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+6.0,2024.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+7.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+7.0,2012.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+7.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+7.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+7.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+7.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+7.0,2017.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+7.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+7.0,2019.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+7.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+7.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+7.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+7.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+7.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+8.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+8.0,2012.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+8.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+8.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+8.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+8.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+8.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+8.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+8.0,2019.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+8.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+8.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+8.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+8.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+8.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+9.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+9.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+9.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+9.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+9.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+9.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+9.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+9.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+9.0,2019.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+9.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+9.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+9.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+9.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+9.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+10.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+10.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+10.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+10.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+10.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+10.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+10.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+10.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+10.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+10.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+10.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+10.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+10.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+10.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+11.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+11.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+11.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+11.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+11.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+11.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+11.0,2017.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+11.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+11.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+11.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+11.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+11.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+11.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+11.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+12.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+12.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+12.0,2013.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+12.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+12.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+12.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+12.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+12.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+12.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+12.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+12.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+12.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+12.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+12.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+13.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+13.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+13.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+13.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+13.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+13.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+13.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+13.0,2018.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+13.0,2019.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+13.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+13.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+13.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+13.0,2023.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+13.0,2024.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+14.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+14.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+14.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+14.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+14.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+14.0,2016.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+14.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+14.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+14.0,2019.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+14.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+14.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+14.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+14.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+14.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+15.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+15.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+15.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+15.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+15.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+15.0,2016.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+15.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+15.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+15.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+15.0,2020.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+15.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+15.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+15.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+15.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+16.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+16.0,2012.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+16.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+16.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+16.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+16.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+16.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+16.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+16.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+16.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+16.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+16.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+16.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+16.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+17.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+17.0,2012.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+17.0,2013.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+17.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+17.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+17.0,2016.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+17.0,2017.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+17.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+17.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+17.0,2020.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+17.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+17.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+17.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+17.0,2024.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+18.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+18.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+18.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+18.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+18.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+18.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+18.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+18.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+18.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+18.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+18.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+18.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+18.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+18.0,2024.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+19.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+19.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+19.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+19.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+19.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+19.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+19.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+19.0,2018.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+19.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+19.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+19.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+19.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+19.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+19.0,2024.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+20.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+20.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+20.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+20.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+20.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+20.0,2016.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+20.0,2017.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+20.0,2018.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+20.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+20.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+20.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+20.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+20.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+20.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+21.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+21.0,2012.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+21.0,2013.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+21.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+21.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+21.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+21.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+21.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+21.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+21.0,2020.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+21.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+21.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+21.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+21.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+22.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+22.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+22.0,2013.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+22.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+22.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+22.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+22.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+22.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+22.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+22.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+22.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+22.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+22.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+22.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+23.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+23.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+23.0,2013.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+23.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+23.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+23.0,2016.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+23.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+23.0,2018.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+23.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+23.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+23.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+23.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+23.0,2023.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+23.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+24.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+24.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+24.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+24.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+24.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+24.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+24.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+24.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+24.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+24.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+24.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+24.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+24.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+24.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+25.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+25.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+25.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+25.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+25.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+25.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+25.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+25.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+25.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+25.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+25.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+25.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+25.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+25.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+26.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+26.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+26.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+26.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+26.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+26.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+26.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+26.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+26.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+26.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+26.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+26.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+26.0,2023.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+26.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+27.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+27.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+27.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+27.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+27.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+27.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+27.0,2017.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+27.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+27.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+27.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+27.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+27.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+27.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+27.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+28.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+28.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+28.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+28.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+28.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+28.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+28.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+28.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+28.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+28.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+28.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+28.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+28.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+28.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+29.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+29.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+29.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+29.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+29.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+29.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+29.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+29.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+29.0,2019.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+29.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+29.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+29.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+29.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+29.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+30.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+30.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+30.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+30.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+30.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+30.0,2016.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+30.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+30.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+30.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+30.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+30.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+30.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+30.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+30.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+31.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+31.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+31.0,2013.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+31.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+31.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+31.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+31.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+31.0,2018.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+31.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+31.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+31.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+31.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+31.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+31.0,2024.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+32.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+32.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+32.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+32.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+32.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+32.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+32.0,2017.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+32.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+32.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+32.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+32.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+32.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+32.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+32.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+33.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+33.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+33.0,2013.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+33.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+33.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+33.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+33.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+33.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+33.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+33.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+33.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+33.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+33.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+33.0,2024.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+34.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+34.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+34.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+34.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+34.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+34.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+34.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+34.0,2018.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+34.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+34.0,2020.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+34.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+34.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+34.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+34.0,2024.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+35.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+35.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+35.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+35.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+35.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+35.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+35.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+35.0,2018.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+35.0,2019.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+35.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+35.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+35.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+35.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+35.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+36.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+36.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+36.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+36.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+36.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+36.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+36.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+36.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+36.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+36.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+36.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+36.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+36.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+36.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+37.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+37.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+37.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+37.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+37.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+37.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+37.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+37.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+37.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+37.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+37.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+37.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+37.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+37.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+38.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+38.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+38.0,2013.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+38.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+38.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+38.0,2016.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+38.0,2017.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+38.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+38.0,2019.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+38.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+38.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+38.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+38.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+38.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+39.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+39.0,2012.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+39.0,2013.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+39.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+39.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+39.0,2016.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+39.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+39.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+39.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+39.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+39.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+39.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+39.0,2023.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+39.0,2024.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+40.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+40.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+40.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+40.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+40.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+40.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+40.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+40.0,2018.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+40.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+40.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+40.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+40.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+40.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+40.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+41.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+41.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+41.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+41.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+41.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+41.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+41.0,2017.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+41.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+41.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+41.0,2020.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+41.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+41.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+41.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+41.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+42.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+42.0,2012.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+42.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+42.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+42.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+42.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+42.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+42.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+42.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+42.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+42.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+42.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+42.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+42.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+43.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+43.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+43.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+43.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+43.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+43.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+43.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+43.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+43.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+43.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+43.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+43.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+43.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+43.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+44.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+44.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+44.0,2013.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+44.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+44.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+44.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+44.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+44.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+44.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+44.0,2020.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+44.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+44.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+44.0,2023.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+44.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+45.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+45.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+45.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+45.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+45.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+45.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+45.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+45.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+45.0,2019.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+45.0,2020.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+45.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+45.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+45.0,2023.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+45.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+46.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+46.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+46.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+46.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+46.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+46.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+46.0,2017.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+46.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+46.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+46.0,2020.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+46.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+46.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+46.0,2023.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+46.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+47.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+47.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+47.0,2013.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+47.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+47.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+47.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+47.0,2017.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+47.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+47.0,2019.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+47.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+47.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+47.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+47.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+47.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+48.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+48.0,2012.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+48.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+48.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+48.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+48.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+48.0,2017.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+48.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+48.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+48.0,2020.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+48.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+48.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+48.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+48.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+49.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+49.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+49.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+49.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+49.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+49.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+49.0,2017.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+49.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+49.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+49.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+49.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+49.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+49.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+49.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+50.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+50.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+50.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+50.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+50.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+50.0,2016.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+50.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+50.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+50.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+50.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+50.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+50.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+50.0,2023.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+50.0,2024.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+51.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+51.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+51.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+51.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+51.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+51.0,2016.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+51.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+51.0,2018.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+51.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+51.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+51.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+51.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+51.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+51.0,2024.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+52.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+52.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+52.0,2013.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+52.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+52.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+52.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+52.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+52.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+52.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+52.0,2020.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+52.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+52.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+52.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+52.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+53.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+53.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+53.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+53.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+53.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+53.0,2016.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+53.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+53.0,2018.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+53.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+53.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+53.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+53.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+53.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+53.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+54.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+54.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+54.0,2013.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+54.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+54.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+54.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+54.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+54.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+54.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+54.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+54.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+54.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+54.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+54.0,2024.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+55.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+55.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+55.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+55.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+55.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+55.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+55.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+55.0,2018.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+55.0,2019.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+55.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+55.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+55.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+55.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+55.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+56.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+56.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+56.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+56.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+56.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+56.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+56.0,2017.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+56.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+56.0,2019.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+56.0,2020.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+56.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+56.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+56.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+56.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+57.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+57.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+57.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+57.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+57.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+57.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+57.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+57.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+57.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+57.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+57.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+57.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+57.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+57.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+58.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+58.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+58.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+58.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+58.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+58.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+58.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+58.0,2018.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+58.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+58.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+58.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+58.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+58.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+58.0,2024.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+59.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+59.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+59.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+59.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+59.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+59.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+59.0,2017.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+59.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+59.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+59.0,2020.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+59.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+59.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+59.0,2023.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+59.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+60.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+60.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+60.0,2013.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+60.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+60.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+60.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+60.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+60.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+60.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+60.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+60.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+60.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+60.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+60.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+61.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+61.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+61.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+61.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+61.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+61.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+61.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+61.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+61.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+61.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+61.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+61.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+61.0,2023.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+61.0,2024.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+62.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+62.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+62.0,2013.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+62.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+62.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+62.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+62.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+62.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+62.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+62.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+62.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+62.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+62.0,2023.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+62.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+63.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+63.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+63.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+63.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+63.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+63.0,2016.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+63.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+63.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+63.0,2019.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+63.0,2020.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+63.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+63.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+63.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+63.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+64.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+64.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+64.0,2013.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+64.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+64.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+64.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+64.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+64.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+64.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+64.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+64.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+64.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+64.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+64.0,2024.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+65.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+65.0,2012.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+65.0,2013.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+65.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+65.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+65.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+65.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+65.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+65.0,2019.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+65.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+65.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+65.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+65.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+65.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+66.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+66.0,2012.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+66.0,2013.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+66.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+66.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+66.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+66.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+66.0,2018.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+66.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+66.0,2020.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+66.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+66.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+66.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+66.0,2024.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+67.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+67.0,2012.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+67.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+67.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+67.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+67.0,2016.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+67.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+67.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+67.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+67.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+67.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+67.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+67.0,2023.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+67.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+68.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+68.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+68.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+68.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+68.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+68.0,2016.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+68.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+68.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+68.0,2019.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+68.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+68.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+68.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+68.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+68.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+69.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+69.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+69.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+69.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+69.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+69.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+69.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+69.0,2018.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+69.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+69.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+69.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+69.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+69.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+69.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+70.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+70.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+70.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+70.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+70.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+70.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+70.0,2017.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+70.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+70.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+70.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+70.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+70.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+70.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+70.0,2024.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+71.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+71.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+71.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+71.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+71.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+71.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+71.0,2017.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+71.0,2018.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+71.0,2019.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+71.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+71.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+71.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+71.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+71.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+72.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+72.0,2012.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+72.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+72.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+72.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+72.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+72.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+72.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+72.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+72.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+72.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+72.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+72.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+72.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+73.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+73.0,2012.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+73.0,2013.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+73.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+73.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+73.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+73.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+73.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+73.0,2019.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+73.0,2020.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+73.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+73.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+73.0,2023.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+73.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+74.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+74.0,2012.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+74.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+74.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+74.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+74.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+74.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+74.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+74.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+74.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+74.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+74.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+74.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+74.0,2024.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+75.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+75.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+75.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+75.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+75.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+75.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+75.0,2017.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+75.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+75.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+75.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+75.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+75.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+75.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+75.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+76.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+76.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+76.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+76.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+76.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+76.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+76.0,2017.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+76.0,2018.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+76.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+76.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+76.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+76.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+76.0,2023.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+76.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+77.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+77.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+77.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+77.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+77.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+77.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+77.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+77.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+77.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+77.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+77.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+77.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+77.0,2023.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+77.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+78.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+78.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+78.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+78.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+78.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+78.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+78.0,2017.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+78.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+78.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+78.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+78.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+78.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+78.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+78.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+79.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+79.0,2012.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+79.0,2013.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+79.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+79.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+79.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+79.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+79.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+79.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+79.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+79.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+79.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+79.0,2023.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+79.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+80.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+80.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+80.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+80.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+80.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+80.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+80.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+80.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+80.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+80.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+80.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+80.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+80.0,2023.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+80.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+81.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+81.0,2012.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+81.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+81.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+81.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+81.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+81.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+81.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+81.0,2019.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+81.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+81.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+81.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+81.0,2023.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+81.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+82.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+82.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+82.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+82.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+82.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+82.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+82.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+82.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+82.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+82.0,2020.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+82.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+82.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+82.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+82.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+83.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+83.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+83.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+83.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+83.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+83.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+83.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+83.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+83.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+83.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+83.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+83.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+83.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+83.0,2024.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+84.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+84.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+84.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+84.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+84.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+84.0,2016.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+84.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+84.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+84.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+84.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+84.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+84.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+84.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+84.0,2024.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+85.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+85.0,2012.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+85.0,2013.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+85.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+85.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+85.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+85.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+85.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+85.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+85.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+85.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+85.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+85.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+85.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+86.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+86.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+86.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+86.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+86.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+86.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+86.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+86.0,2018.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+86.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+86.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+86.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+86.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+86.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+86.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+87.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+87.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+87.0,2013.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+87.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+87.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+87.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+87.0,2017.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+87.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+87.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+87.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+87.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+87.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+87.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+87.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+88.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+88.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+88.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+88.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+88.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+88.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+88.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+88.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+88.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+88.0,2020.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+88.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+88.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+88.0,2023.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+88.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+89.0,2011.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+89.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+89.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+89.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+89.0,2015.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+89.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+89.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+89.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+89.0,2019.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+89.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+89.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+89.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+89.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+89.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+90.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+90.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+90.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+90.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+90.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+90.0,2016.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+90.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+90.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+90.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+90.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+90.0,2021.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+90.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+90.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+90.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+91.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+91.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+91.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+91.0,2014.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+91.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+91.0,2016.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+91.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+91.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+91.0,2019.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+91.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+91.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+91.0,2022.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+91.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+91.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+92.0,2011.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+92.0,2012.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+92.0,2013.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+92.0,2014.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+92.0,2015.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+92.0,2016.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+92.0,2017.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+92.0,2018.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+92.0,2019.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+92.0,2020.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+92.0,2021.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+92.0,2022.0,AGGRESSIVE_EXPANSION,Reinvesting >60% CFO into CapEx
+92.0,2023.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
+92.0,2024.0,BALANCED_GROWTH,Reinvesting CFO while reducing debt/paying dividend
